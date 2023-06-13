@@ -1,6 +1,6 @@
 ## Привет, меня зовут Артём! Я учусь на веб разработчика в Яндекс Практикуме<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-- 🔭 Сейчас работаю над добавлением авторизации в проект Mesto
-- 🌱 В данный момент изучаю React
+- 🔭 Сейчас работаю над размещением бэкенда и фронтенда на ВМ
+- 🌱 В данный момент изучаю Express
 - 👯 Нахожусь в поиске работы
 
 ## 🛠 Мой стек:
@@ -9,6 +9,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 
 ## Статистика:
 
